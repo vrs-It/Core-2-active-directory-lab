@@ -93,21 +93,11 @@ Understand how AD connects with:
 - **Networking (DNS, DHCP)**
 
 
-https://github.com/user-attachments/assets/e525a79b-d7b8-42d6-90b7-9dc8febbd3b4
+
+https://github.com/user-attachments/assets/4dbf4201-2267-490a-b393-e0204403561d
 
 
 
-https://github.com/user-attachments/assets/a74a6bf7-cbfa-4437-b16f-f6def30bcfef
+https://github.com/user-attachments/assets/170574ad-936a-48c1-9aac-761800b90c9a
 
 
-
-https://github.com/user-attachments/assets/1b93cb8c-0a0e-4193-b518-ebc97b0c7daf
-
-
-
-https://github.com/user-attachments/assets/5e9980c0-f0f6-4a18-860b-603d185252c0
-
-![image3](https://github.com/user-attachments/assets/75405ca4-b629-4bcd-a24c-130c5ea94cbf)
-![image2](https://github.com/user-attachments/assets/27b84eff-f31b-4011-b8bf-ff8b2aec8256)
-![image1](https://github.com/user-attachments/assets/8aca0523-35e6-416a-945e-10ad7d65597b)
-![image0](https://github.com/user-attachments/assets/b33f3651-404f-4639-bcff-bf94a01172c9)
